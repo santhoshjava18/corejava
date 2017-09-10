@@ -35,7 +35,6 @@ public class ValidateCreditCard {
 			validationList.add(validationMap);
 		}
 		return validationList;
-
 	}
 
 }
